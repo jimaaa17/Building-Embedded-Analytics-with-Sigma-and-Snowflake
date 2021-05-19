@@ -1,5 +1,5 @@
 # Building-Embedded-Analytics-with-Sigma-and-Snowflake
-# Embedding Analytical dashboards into external-facing applications
+Embedding Analytical dashboards into external-facing applications
 ## Summary
 The exercises in this lab will walk you through the steps to:
   ● Create databases, tables, stages and warehouses
